@@ -125,6 +125,9 @@ ul.line li {
     top: 0px;
     left: -110px;
 }
+.buttonSearch:hover {
+    border: 2px solid #ee916a;
+}
 .point {
     color: var(--primary-color-orange);
 }
